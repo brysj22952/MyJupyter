@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "jupyter2.bat" , 0
